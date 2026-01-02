@@ -92,7 +92,7 @@ The focus of this project is not only on model training but also on **controllin
 
 ## Author
 Nisarg Patel  
-Aspiring Data Scientist
+Aspiring Data Scientist | Machine Learning Enthusiast
 
 ---
 
